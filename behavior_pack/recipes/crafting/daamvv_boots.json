@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:daamvv_boots"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "X X",
+      "X X"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:daamvv_ingot"
+      }
+    },
+    "result": {
+      "item": "minecraft:daamvv_boots",
+      "count": 1
+    }
+  }
+}

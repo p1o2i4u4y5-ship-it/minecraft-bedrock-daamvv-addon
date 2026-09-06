@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:daamvv_helmet"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "XXX",
+      "X X"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:daamvv_ingot"
+      }
+    },
+    "result": {
+      "item": "minecraft:daamvv_helmet",
+      "count": 1
+    }
+  }
+}

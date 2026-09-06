@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:daamvv_ingot"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "XY"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:iron_nugget",
+        "count": 2
+      },
+      "Y": {
+        "item": "minecraft:copper_ingot",
+        "count": 1
+      }
+    },
+    "result": {
+      "item": "minecraft:daamvv_ingot",
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:daamvv_sword"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "X",
+      "X",
+      "Y"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:daamvv_ingot"
+      },
+      "Y": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "minecraft:daamvv_sword",
+      "count": 1
+    }
+  }
+}

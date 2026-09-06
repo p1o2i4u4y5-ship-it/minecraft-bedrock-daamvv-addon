@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:daamvv_block"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "XXX",
+      "XXX",
+      "XXX"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:daamvv_ingot"
+      }
+    },
+    "result": {
+      "item": "minecraft:daamvv_block",
+      "count": 1
+    }
+  }
+}

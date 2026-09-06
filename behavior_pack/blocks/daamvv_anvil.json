@@ -1,0 +1,23 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:block": {
+    "description": {
+      "identifier": "minecraft:daamvv_anvil",
+      "category": "utility",
+      "is_experimental": false
+    },
+    "components": {
+      "minecraft:destroy_time": 5.0,
+      "minecraft:explosion_resistance": 6000.0,
+      "minecraft:friction": 0.4,
+      "minecraft:map_color": "#4B4B4B",
+      "minecraft:light_emission": 0,
+      "minecraft:material_instances": {
+        "*": {
+          "texture": "daamvv_anvil",
+          "render_method": "opaque"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:daamvv_furnace"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "XXX",
+      "X X",
+      "XXX"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:daamvv_ingot"
+      }
+    },
+    "result": {
+      "item": "minecraft:daamvv_furnace",
+      "count": 1
+    }
+  }
+}

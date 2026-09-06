@@ -1,0 +1,19 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:block": {
+    "description": {
+      "identifier": "minecraft:daamvv_ore",
+      "category": "natural",
+      "is_experimental": false
+    },
+    "components": {
+      "minecraft:destroy_time": 3.0,
+      "minecraft:explosion_resistance": 3.0,
+      "minecraft:friction": 0.6,
+      "minecraft:map_color": "#8B7355",
+      "minecraft:light_emission": 0,
+      "minecraft:crafting_table": null,
+      "minecraft:loot": "loot_tables/blocks/daamvv_ore.json"
+    }
+  }
+}

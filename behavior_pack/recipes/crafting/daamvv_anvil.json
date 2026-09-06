@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:daamvv_anvil"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "XXX",
+      " Y ",
+      "YYY"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:daamvv_block"
+      },
+      "Y": {
+        "item": "minecraft:daamvv_ingot"
+      }
+    },
+    "result": {
+      "item": "minecraft:daamvv_anvil",
+      "count": 1
+    }
+  }
+}
